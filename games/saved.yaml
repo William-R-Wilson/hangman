@@ -1,0 +1,23 @@
+--- !ruby/object:Round
+game: !ruby/object:Game
+  guesses:
+  - e
+  - t
+  - h
+  word:
+  - s
+  - t
+  - r
+  - e
+  - p
+turns: 4
+score: 0
+input: save
+players_answer: _t _e _
+increment_turn: true
+word_board:
+- ! ' _'
+- t
+- ! ' _'
+- e
+- ! ' _'
